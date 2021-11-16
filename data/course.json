@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e36d65d1-cbc4-3f70-4234-7fc2a1a4c778"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Applied Nuclear Physics",
+  "course_description": "The topics covered under this course include elements of nuclear physics for engineering students, basic properties of the nucleus and nuclear radiations, quantum mechanical calculations of deuteron bound-state wave function and energy, n-p scattering cross-section, transition probability per unit time and barrier transmission probability. Also explored are binding energy and nuclear stability, interactions of charged particles, neutrons, and gamma rays with matter, radioactive decays, energetics and general cross-section behavior in nuclear reactions.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.101",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams"
+  ],
+  "title": "Course Metadata"
+}
